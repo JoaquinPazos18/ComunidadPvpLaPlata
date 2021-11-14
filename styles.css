@@ -184,6 +184,8 @@ html{
     font-size: 15px;
 
 }
+
+
 @media (max-width: 600px) {
     #navbar {
         margin-top: 10px;
@@ -203,6 +205,14 @@ html{
     position: relative;
     left: -35%;
 }
+header{
+    width: 100%;
+    margin:auto;
+}
+footer{
+    width: 100%;
+    margin:auto;
+}
 }
 @media only screen and (max-width: 580px) and (min-width: 380px){
     #navbar {
@@ -219,11 +229,28 @@ html{
         position: relative;
         left: -35%;
     }
+
+    header{
+        width: 100%;
+        margin:auto;
+    }
+    footer{
+        width: 100%;
+        margin:auto;
+    }
 @media only screen and (max-width: 900px) and (min-width: 600px){
     #navbar {
         margin-top: 10px;
         font-size: 12px;
         margin-right: 15px;
+}
+header{
+    width: 100%;
+    margin:auto;
+}
+footer{
+    width: 100%;
+    margin:auto;
 }
 }
 }
@@ -237,6 +264,14 @@ html{
     #logo{
         position: relative;
         
+}
+header{
+    width: 100%;
+    margin:auto;
+}
+footer{
+    width: 100%;
+    margin:auto;
 }
 }
 
@@ -254,5 +289,13 @@ html{
     margin-left: 23%;
     display:flex;
     flex-wrap: wrap;
+}
+header{
+    width: 100%;
+    margin:auto;
+}
+footer{
+    width: 100%;
+    margin:auto;
 }
 }
