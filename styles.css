@@ -190,11 +190,6 @@ header{
     margin: auto;
 }
 
-footer{
-    width: 100%;
-    margin: auto;
-
-}
 
 @media (max-width: 600px) {
     #navbar {
